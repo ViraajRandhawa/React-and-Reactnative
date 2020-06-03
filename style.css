@@ -1,0 +1,22 @@
+h1 {
+    background-color: aqua;
+    text-align: center;
+    display: flex;
+    opacity: 0.77;
+}
+.react {
+    background-color: aquamarine;
+    display:end;
+    opacity: 0.77;
+    border: solid;
+
+}
+
+body {
+    background-image: url(https://i.pinimg.com/originals/0d/af/b7/0dafb7928a99a9cb552a941895a6e586.jpg);
+}
+.Reactnative {
+    background-color: darkorange;
+    opacity: 0.77;
+    border: solid;
+}
